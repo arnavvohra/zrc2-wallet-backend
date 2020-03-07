@@ -1,0 +1,44 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "undefined/log/.dfcde87f7302af30e8c0498545fd7030b1eafb3b-audit.json",
+    "files": [
+        {
+            "date": 1583485936767,
+            "name": "undefined/log/Access-06-03-2020 2.log",
+            "hash": "bc75b7f4cade2c0d1679173b23ba5154"
+        },
+        {
+            "date": 1583529682659,
+            "name": "undefined/log/Access-07-03-2020 2.log",
+            "hash": "5b75ebbf21254ef42a07951369f98f29"
+        },
+        {
+            "date": 1583530679026,
+            "name": "undefined/log/Access-07-03-2020 3.log",
+            "hash": "db412881515e23f4fcb012ecb73111cd"
+        },
+        {
+            "date": 1583561500629,
+            "name": "undefined/log/Access-07-03-2020 11.log",
+            "hash": "f78b12ccf73e0fb6c0c341155c660f54"
+        },
+        {
+            "date": 1583566968647,
+            "name": "undefined/log/Access-07-03-2020 1.log",
+            "hash": "d29ea69f1371b2910dc7e8821da6faa0"
+        },
+        {
+            "date": 1583577011040,
+            "name": "undefined/log/Access-07-03-2020 4.log",
+            "hash": "9df0b7623884f778da75377ce64db4c7"
+        },
+        {
+            "date": 1583580640897,
+            "name": "undefined/log/Access-07-03-2020 5.log",
+            "hash": "1c7cf85d077a7c1400cd8a24bf1299ab"
+        }
+    ]
+}

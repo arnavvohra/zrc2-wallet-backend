@@ -1,0 +1,45 @@
+{
+  "name": "zrc2-wallet-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www",
+    "test": "mocha --recursive --exit"
+  },
+  "dependencies": {
+    "celebrate": "^10.0.1",
+    "cls-hooked": "^4.2.2",
+    "cls-rtracer": "^1.3.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^8.0.0",
+    "events": "^3.0.0",
+    "express": "~4.16.1",
+    "express-winston": "^4.0.1",
+    "fs": "0.0.1-security",
+    "http-errors": "~1.6.3",
+    "https": "^1.0.0",
+    "is-valid-json": "^1.0.2",
+    "jade": "~1.11.0",
+    "moment": "^2.24.0",
+    "mongo-unit": "^1.4.5",
+    "mongoose": "^5.5.8",
+    "morgan": "~1.9.1",
+    "ms": "^2.1.1",
+    "request": "^2.88.0",
+    "rest-api-errors": "^1.2.1",
+    "shortid": "^2.2.14",
+    "uuid": "^3.3.3",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^6.1.4",
+    "mongo-mock": "^3.8.1",
+    "nodemon": "^1.19.0"
+  }
+}
