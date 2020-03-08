@@ -5,7 +5,7 @@
 
 This repo contains an api server for zrc2 wallet, which allows a user to store, send and receive zrc2 tokens on the Zilliqa developer testnet (https://dev-api.zilliqa.com/). Use this repo with zrc2-wallet-frontend to test the functionality of the zrc2 wallet.
 
-## How do it setup
+## Setup
 
 Make sure you have setup .env correctly to avoid any errors.
 See .env-example for details.
