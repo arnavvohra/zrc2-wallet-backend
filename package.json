@@ -23,7 +23,7 @@
     "https": "^1.0.0",
     "is-valid-json": "^1.0.2",
     "jade": "~1.11.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongo-unit": "^1.4.5",
     "mongoose": "^5.5.8",
     "morgan": "~1.9.1",
